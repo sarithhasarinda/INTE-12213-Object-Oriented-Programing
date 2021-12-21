@@ -1,1 +1,0 @@
-# INTE-12213-Object-Oriented-Programing
