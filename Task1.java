@@ -1,1 +1,0 @@
-Class Task1{}
